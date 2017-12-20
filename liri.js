@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 var twitter = require("twitter");
 var request = require("request");
@@ -111,7 +111,7 @@ function runCommand(command) {
   }
 }
 
-=======
+
 
 var twitter = require("twitter");
 var request = require("request");
@@ -224,5 +224,5 @@ function runCommand(command) {
   }
 }
 
->>>>>>> 645c773d975da17d3af138268c8e48268febb5e5
+
 runCommand(command); 

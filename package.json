@@ -1,8 +1,13 @@
 {
   "name": "liri-node-app",
   "version": "1.0.0",
-  "description": "In this assignment, you will make LIRI.",
-  "main": "index.js",
+  "description": "<<<<<<< HEAD # LIRI Bot",
+  "main": "keys.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,17 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/sashmore288/liri-node-app.git"
   },
-  "keywords": [],
-  "author": "StaShaun Ashmore",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sashmore288/liri-node-app/issues"
   },
-  "homepage": "https://github.com/sashmore288/liri-node-app#readme",
-  "dependencies": {
-    "twitter": "^1.7.1",
-    "node-spotify-api": "^1.0.7",
-    "request": "^2.83.0",
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/sashmore288/liri-node-app#readme"
 }
